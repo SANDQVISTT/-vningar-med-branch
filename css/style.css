@@ -1,3 +1,25 @@
-h1{
-    color: red;
+*{
+    padding: 0;
+    margin: 0;
+}
+/*Othmans styling*/
+.otnav,.otA{
+    
+     padding: 10px;
+    display: grid;
+    background-color: purple;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+/*Jonathan..kanske :)*/
+h2{
+    flex: auto;
 }
